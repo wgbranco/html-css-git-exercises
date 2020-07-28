@@ -6,3 +6,13 @@
  *    for example: General styles, Navigation styles, Hero styles, Footer etc.
  * 
  */
+img {
+  height: 450px;
+  width: 1000px;
+}
+
+.articles .article:first-child {
+  background-color: var(--light);
+  font-weight: 900;
+  padding: 2rem;
+}
